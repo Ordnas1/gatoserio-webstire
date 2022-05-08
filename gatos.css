@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://cdni.rbth.com/rbthmedia/images/2021.06/original/60c5350115e9f9152b1c4529.jpg);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+}
+
+article{
+    width: 66%;
+    margin: 0px auto;
+    border: 3px solid black;
+    text-align: center;
+    background-color: bisque;
+}
+header{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+header{
+    font-family:monospace;
+    font-size: 250%;
+    background-color:lightslategrey;
+    padding: auto;
+    height: 200px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 200px; 
+    color:black;
+    border: 3px solid black;
+}
